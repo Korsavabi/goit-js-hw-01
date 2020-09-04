@@ -1,8 +1,8 @@
 'use strict';
 
-let name,price;
+const name = 'Генератор защитного поля';
 
-name = 'Генератор защитного поля';
+let price;
 
 price = 'цена: 1000';
 
